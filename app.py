@@ -23,9 +23,8 @@ st.subheader("Conoce uno de lso beeficios de convertir texto a audio")
 st.write('En el ámbito empresarial, la conversión de texto a voz puede automatizar una variedad de tareas.'
          'Los chatbots y asistentes virtuales de voz pueden responder preguntas frecuentes y brindar soporte al cliente de manera eficiente y económica.'
          'Esto libera a los empleados para realizar tareas más estratégicas y creativas.'
-         '    '
-st.markdown('Si quieres saber más, haz click [aquí](https://www.gomeranoticias.com/2023/09/08/por-que-convertir-texto-a-voz-una-mirada-a-las-ventajas-de-la-conversion-de-texto-en-audio/).')
-        )
+         '    ')
+st.markdown('Si quieres saber más, haz click [aquí](https://www.gomeranoticias.com/2023/09/08/por-que-convertir-texto-a-voz-una-mirada-a-las-ventajas-de-la-conversion-de-texto-en-audio/).'))
            
 st.markdown(f"¿Quieres escucharlo?, copia el texto")
 text = st.text_area("Ingrese El texto a escuchar.")
