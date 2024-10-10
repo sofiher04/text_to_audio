@@ -8,7 +8,7 @@ import base64
 
 
 st.title("Conversión de Texto a Audio")
-image = Image.open('Text-to-speech.gif', width=350)
+image = Image.open('Text-to-speech.gif')
 st.image(image, width=350)
 with st.sidebar:
     st.subheader("Esrcibe y/o selecciona texto para ser escuchado.")
